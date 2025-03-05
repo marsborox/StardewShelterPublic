@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6aba207c241dcd45bd8501145ea49e7, type: 3}
+  m_Name: Dead_Desert
+  m_EditorClassIdentifier: 
+  maxObjectsInArea: 10
+  maxLootChestsInArea: 4
+  maxEnemyUnitsInArea: 8
+  maxOreVeinsInArea: 6
+  maxHerbBushesInArea: 0
+  oreVeinSO: {fileID: 11400000, guid: 397fc412b13942f4a80e68fb40ca5be0, type: 2}
+  herbBushSO: {fileID: 0}
+  unitRaceSO: {fileID: 11400000, guid: e0cc92041e815b14a992b10b31bf0198, type: 2}
+  unitSettingSO: {fileID: 11400000, guid: 123d654e295e5984f8bcab89895337ac, type: 2}
